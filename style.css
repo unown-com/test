@@ -1,10 +1,7 @@
-.block {
+#block {
     height: 50px;
     width: 1277px;
-    background-color: crimson;
+    background-color: rgb(194, 35, 67);
     margin-left: -7px;
     margin-top: -7px;
-}
-.block .onclick{
-    animation: backwards;
 }
