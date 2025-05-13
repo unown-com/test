@@ -1,9 +1,13 @@
+body{
+    background-color: rgb(57, 53, 53);
+}
 #block {
     height: 50px;
     width: 1280px;
-    background-color: rgb(194, 35, 67);
+    background-color: rgb(67, 64, 65);
     margin-left: -8px;
     margin-top: -8px;
+    box-shadow: 2px solid white;
 }
 .add {
     margin-top: 4.5px;
